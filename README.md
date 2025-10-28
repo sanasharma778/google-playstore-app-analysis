@@ -5,15 +5,15 @@ This project provides a comprehensive analysis of Play Store app data to uncover
 
 **Insights and Recommendations are provided on the following key areas:**
 
-> **App Performance Analysis**: Evaluation of app ratings, installs, and reviews across multiple categories to identify patterns in user preferences and market success.
-> 
-> **User Sentiment Impact**: Understanding how user sentiment (polarity and subjectivity) from reviews correlates with app ratings and overall satisfaction.
-> 
-> **Pricing and Type Influence**: Comparative analysis between free and paid apps to determine how monetization strategies affect ratings, downloads, and user engagement.
-> 
-> **App Attributes**: Assessment of app size, content rating, and update frequency to understand their impact on performance and user sentiment.
-> 
-> **Category Insights**: Ranking of top-performing app categories by installs, average rating, and sentiment polarity to identify key growth opportunities.
+ **App Performance Analysis**: Evaluation of app ratings, installs, and reviews across multiple categories to identify patterns in user preferences and market success.
+ 
+ **User Sentiment Impact**: Understanding how user sentiment (polarity and subjectivity) from reviews correlates with app ratings and overall satisfaction.
+ 
+ **Pricing and Type Influence**: Comparative analysis between free and paid apps to determine how monetization strategies affect ratings, downloads, and user engagement.
+ 
+ **App Attributes**: Assessment of app size, content rating, and update frequency to understand their impact on performance and user sentiment.
+ 
+ **Category Insights**: Ranking of top-performing app categories by installs, average rating, and sentiment polarity to identify key growth opportunities.
 
 **Tools and Technologies used:**
 
