@@ -1,4 +1,4 @@
-# google-playstore-app-analysis
+# Google-Playstore-App-Analysis
 The Google Play Store hosts millions of mobile applications across diverse categories from entertainment to education and productivity. With this massive competition, app developers face a core challenge: understanding what makes certain apps succeed in terms of installs, ratings, and user satisfaction.
 
 This project provides a comprehensive analysis of Play Store app data to uncover insights into how app characteristics, user feedback, and sentiments influence overall app performance. 
@@ -22,3 +22,6 @@ This project provides a comprehensive analysis of Play Store app data to uncover
 **MySQL** → Data integration, joins, and analytical queries
 
 **Power BI** → Interactive dashboards and data visualization
+
+# Data Structures and Intial Checks
+
